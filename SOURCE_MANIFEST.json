@@ -1,0 +1,27 @@
+{
+  "exported_at": "2026-11-05T12:03:55Z",
+  "source_home": "<workspace>",
+  "repo": "r2d2-productivity-connectors",
+  "files": [
+    {
+      "source": "<workspace>/telegram-bots/shared/email_client.py",
+      "path": "email_client.py",
+      "source_sha256": "ce4469ace512106d188987c7f31e0877f950f5da4cb242b44e9927522e30f110",
+      "export_sha256": "ce4469ace512106d188987c7f31e0877f950f5da4cb242b44e9927522e30f110"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/gtasks_sync.py",
+      "path": "gtasks_sync.py",
+      "source_sha256": "e42de97fc5f07e5080fdbdfdff1f49b5476d8e044d1581ada36d0b4e8f5619ab",
+      "export_sha256": "e42de97fc5f07e5080fdbdfdff1f49b5476d8e044d1581ada36d0b4e8f5619ab"
+    },
+    {
+      "source": "<workspace>/telegram-bots/scripts/google_auth.py",
+      "path": "google_auth.py",
+      "source_sha256": "7a86b564e2d96f87517a7103f7bc08d6a40062741e0bb04510421a4f6ae4bd2c",
+      "export_sha256": "7a86b564e2d96f87517a7103f7bc08d6a40062741e0bb04510421a4f6ae4bd2c"
+    }
+  ],
+  "adaptations": "Toolkit copies may adapt absolute paths or remove optional cross-repo notification dependencies; source and export hashes expose this.",
+  "privacy": "Export sanitized: credentials/private runtime state excluded; personal email, workstation paths and literal IP addresses removed."
+}
